@@ -1,2 +1,11 @@
-# Design-3
-Unit 2 Design 3 Website
+# Instructions
+
+Working from scratch, build the layouts below:
+
+Mobile:
+
+![mobile](images/p3_mobile.png)
+
+Desktop:
+
+![desktop](images/p3_desktop.png)
