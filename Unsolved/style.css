@@ -79,8 +79,5 @@ main {
     .happy {
         grid-area: 1 / 1;
     }
-    .lorem {
-        grid-row: span 2;
-        grid-column: span 1;
-    }
+ 
 }
